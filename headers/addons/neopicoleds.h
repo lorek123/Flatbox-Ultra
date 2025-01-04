@@ -205,6 +205,7 @@ private:
 		bool isFocusModeEnabled;
 	bool focusModePrevState;
 	bool turnOffWhenSuspended;
+    PLEDType ledType;
 };
 
 #endif
