@@ -1,4 +1,5 @@
 #include "host/usbh.h"
+#include "tusb.h"
 #include "class/hid/hid.h"
 #include "class/hid/hid_host.h"
 #include "drivers/ps4/PS4AuthUSBListener.h"

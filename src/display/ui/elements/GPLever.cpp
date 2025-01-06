@@ -128,3 +128,4 @@ void GPLever::setDirectionMasks(int32_t upMask, int32_t downMask, int32_t leftMa
     this->_leftMask = leftMask;
     this->_rightMask = rightMask;
 }
+}

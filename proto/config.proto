@@ -296,7 +296,6 @@ message LEDOptions
     optional int32 pledIndex3 = 34;
     optional int32 pledIndex4 = 35;
 
-    optional uint32 indexM1 = 36;
     optional CaseRGBType caseRGBType = 36;
     optional int32 caseRGBIndex = 37;
     optional uint32 caseRGBColor = 38;
